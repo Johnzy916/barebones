@@ -1,2 +1,2 @@
-# NAME OF REPO
-This is a description of this thing
+# barebones
+This is a basic starter for my web apps
